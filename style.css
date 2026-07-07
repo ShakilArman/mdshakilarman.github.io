@@ -240,3 +240,13 @@ footer {
     padding: 22px;
   }
 }
+.hero-text h3 {
+  color: #500000;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.hero-text h3 + h3 {
+  margin-top: -2px;
+  margin-bottom: 20px;
+}
